@@ -1,0 +1,47 @@
+#KytickaText {
+  color: goldenrod;
+  border: 3px solid gold;
+  border-radius: 100%;
+  border-style:dotted;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 100px;
+}
+#Pro {
+    color: goldenrod;
+    border: 3px solid gold;
+    border-radius: 100%;
+    border-style:dotted;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    padding: 100px;
+}
+#Josefinku{
+    color: goldenrod;
+    border: 3px solid gold;
+    border-radius: 30%;
+    border-style:dotted;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    padding: 100px;
+    text-align: center;
+}
+#Pexesicko {
+  color: blueviolet;
+  width: 800px;
+  height: 200px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+#rose {
+  color: blueviolet;
+  color-scheme: dark;
+  border: 1px solid red;
+  width: 435px;
+  height: 944px;
+}
