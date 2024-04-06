@@ -4,7 +4,6 @@ const textHeight = textElement.offsetHeight;
 
 console.log(textWidth, textHeight);
 
-alert("Miluju te bobicku");
 function scrollToBottom() {
     const documentHeight = document.documentElement.scrollHeight;
     window.scrollTo({ top: documentHeight, behavior: 'smooth' });

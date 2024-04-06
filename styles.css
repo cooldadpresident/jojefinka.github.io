@@ -2,33 +2,36 @@
   color: goldenrod;
   border: 3px solid gold;
   border-radius: 100%;
-  border-style:dotted;
+  border-style: dotted;
   width: fit-content;
   height: fit-content;
   margin: auto;
   padding: 100px;
 }
+
 #Pro {
-    color: goldenrod;
-    border: 3px solid gold;
-    border-radius: 100%;
-    border-style:dotted;
-    width: fit-content;
-    height: fit-content;
-    margin: auto;
-    padding: 100px;
+  color: goldenrod;
+  border: 3px solid gold;
+  border-radius: 100%;
+  border-style: dotted;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 100px;
 }
-#Josefinku{
-    color: goldenrod;
-    border: 3px solid gold;
-    border-radius: 30%;
-    border-style:dotted;
-    width: fit-content;
-    height: fit-content;
-    margin: auto;
-    padding: 100px;
-    text-align: center;
+
+#Josefinku {
+  color: goldenrod;
+  border: 3px solid gold;
+  border-radius: 30%;
+  border-style: dotted;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 100px;
+  text-align: center;
 }
+
 #Pexesicko {
   color: blueviolet;
   width: 800px;
@@ -44,7 +47,16 @@
   border: 1px solid red;
   width: 435px;
   height: 944px;
+  text-align: center;
 }
-#body{
+
+#RoseInHand {
+  text-align: center;
+}
+
+body {
   background-color: chocolate;
+}
+#p{
+  color: beige;
 }
